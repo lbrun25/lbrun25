@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Vibes](https://apps.apple.com/fr/app/vibes-tes-amis/id6449367420)
 
-- 💬 Ask me about **iOS, Swift, Go, gRPC, AWS, React**
+- 💬 Ask me about **React, TypeScript, Go, gRPC, AWS, Node.js**
 
 - 📫 How to reach me **lucien.brun.pro@gmail.com**
 
