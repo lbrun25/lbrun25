@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lbrun25" alt="lbrun25" /></a> </p>
 
-- 🔭 I’m currently working on [Vibes](https://apps.apple.com/fr/app/vibes-tes-amis/id6449367420)
-
 - 💬 Ask me about **React, TypeScript, Go, gRPC, AWS, Node.js**
 
 - 📫 How to reach me **lucien.brun.pro@gmail.com**
